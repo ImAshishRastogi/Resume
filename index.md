@@ -16,11 +16,10 @@ and a proactive demeanor.**
  - Frontend and Backend Development of Feature Display Support for displaying the certain features in detailed by fetching data from backend.
  - Upgradation of OpenSSL API along with CURL,NTP and wpa_supplicant APIs which has been used by various modules for secure communication and transferring of information/data.
  - Effectively resolved various issues/bugs including intermittent issues.
- - Created various customizable SIP and other networking packets to send over network with help of sipp o r ColaSoft which helped infeasibility check, development, BUG verification and UT.
+ - Created various customizable SIP and other networking packets to send over network with help of sipp or ColaSoft which helped infeasibility check, development, BUG verification and UT.
  - Configured and Managed the Window Server from scratch which include DHCP, DNS, IIS (FTP and HTTPS)configuration.
  - Configured HP and cisco switch.
- - Well versed with continuous development using S V N and Agile
-Tools like JIRA .
+ - Well versed with continuous development using SVN and Agile Tools like JIRA .
 
 ### Trainee at *`NEC Corporation India Private Limited, Noida`*
 `Jan,2019 - Jun,2019`
@@ -49,10 +48,12 @@ Tools like JIRA .
  - Technology Used : Spring Boot, RESTful APIs, PHP, HTML/CSS, MySQL, R.
 
 ### Analysis of data using Hadoop Map-Reduce
+`Jun,2018 - Aug,2018`
  - Develop Hadoop code to process big data files using Map-Reduce and performing analysis of obtained data.
  - Technology Used : Java, MongoDB.
  
 ## ACHIEVEMENTS & CERTIFICATES
+
 ### SPOT(Special Performance on Time) Award
 `Jul,2020`
 > For providing an efficient solution to a real-time problem in live project.
