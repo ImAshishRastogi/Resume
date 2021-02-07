@@ -40,7 +40,7 @@ and a proactive demeanor.**
 
 ### Voice Assistant System
 `Jan,2019 - Jun,2019`
- - Done R&D on speech recognition OSS and integrated to telecommunication project which include collection, operation and recognition on Realtime speech data.
+ - Done R&D on speech recognition OSS and integrated to telecommunication project which include collection, operation and recognition on real-time speech data.
  - Recognized speech data was used to perform respected operation in response.
  - Technology Used : **Node.js**, **PHP**, **MongoDB**, **Asterisk**, **Julius**, **GIT**.
 
@@ -60,7 +60,7 @@ and a proactive demeanor.**
 
 #### Participation Certificate - SNACKDOWN 2017
 `May,2017`
-> Particiapte in programming competition to improve problem solving skills
+> Participate in programming competition to improve problem solving skills
 
 ## LANGUAGE
 <dl>
