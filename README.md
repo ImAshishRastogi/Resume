@@ -1,4 +1,5 @@
-## ABOUT 
+
+## *ABOUT* 
 **Resourceful Software Developer with knowledge of Java and C++. Looking to bring further success to desired organization through a strong skill set
 and a proactive demeanor.**
 
@@ -6,7 +7,7 @@ and a proactive demeanor.**
 **`C`** **`C++`** **`Core Java`** **`Data Strcuture`** **`Networking protocols`** **`Window Server`** **`Cisco Switch`** **`Wireshark`** **`OpeSSL`** **`Problem Solving`** **`MongoDB`** **`MySQL`** **`Project Coordination`**
 
 ## EXPERIENCE
-#### Member of Technical Staff at *`NEC Corporation India Private Limited, Noida`* 
+### Member of Technical Staff at *`NEC Corporation India Private Limited, Noida`* 
 `Jul,2019 - present`
     
  - Worked on a Telecommunication Project where I got to work on
@@ -31,7 +32,7 @@ include DHCP, DNS, IIS (FTP and HTTPS)configuration.
  - Well versed with continuous development using S V N and Agile
 Tools like JIRA .
 
-#### Trainee at *`NEC Corporation India Private Limited, Noida`*
+### Trainee at *`NEC Corporation India Private Limited, Noida`*
 `Jan,2019 - Jun,2019`
  - Development and Integration of a Speech Recognition System in IP
 phones to enable the voice assistance feature.
@@ -46,7 +47,7 @@ for JULIUS by training the sample audio data using HTK toolkit .
 |High School    | Harish Chnadra Inter College Boys, Varanasi   | Science           | 2011-2012     | 79.5
 
 ## PERSONAL PROJECT
-#### Voice Assistant System
+### Voice Assistant System
 `Jan,2019 - Jun,2019`
  - Done R&D on speech recognition OSS and integrated to telecommunication
 project which include collection, operation and recognition on Realtime
@@ -55,20 +56,20 @@ speech data.
 response.
  - Technology Used : Node.js, PHP, MongoDB, Asterisk, Julius, GIT.
 
-#### Essence - Online Book Store and Book Recommendation System
+### Essence - Online Book Store and Book Recommendation System
 `Jul,2018 - Sep,2019`
  - A recommendation system which uses Collaborative Filtering for
 recommending books to the user by finding the other users who in past
 have liked the similar books and what other books they have liked.
  - Technology Used : Spring Boot, RESTful APIs, PHP, HTML/CSS, MySQL, R.
 
-#### Analysis of data using Hadoop Map-Reduce
+### Analysis of data using Hadoop Map-Reduce
  - Develop Hadoop code to process big data files using Map-Reduce and
 performing analysis of obtained data.
  - Technology Used : Java, MongoDB.
  
 ## ACHIEVEMENTS & CERTIFICATES
-#### SPOT(Special Performance on Time) Award
+### SPOT(Special Performance on Time) Award
 `Jul,2020`
 > For providing an efficient solution to a real-time problem in live project.
 
