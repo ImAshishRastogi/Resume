@@ -1,9 +1,9 @@
 ### ABOUT
-Resourceful Software Developer with knowledge of Java and C++. Looking to bring further success to desired organization through a strong skill set
-and a proactive demeanor.
+**Resourceful Software Developer with knowledge of Java and C++. Looking to bring further success to desired organization through a strong skill set
+and a proactive demeanor.**
 
 ### SKILLS
-`C` `C++` `Core Java` `Data Strcuture` `Networking protocols` `Window Server` `Cisco Switch` `Wireshark` `OpeSSL` `Problem Solving` `MongoDB` `MySQL` `Project Coordination`
+`**C**` `**C++**` `Core Java` `Data Strcuture` `Networking protocols` `Window Server` `Cisco Switch` `Wireshark` `OpeSSL` `Problem Solving` `MongoDB` `MySQL` `Project Coordination`
 
 ### EXPERIENCE
 
