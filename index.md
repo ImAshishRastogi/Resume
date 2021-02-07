@@ -45,7 +45,7 @@ for JULIUS by training the sample audio data using HTK toolkit .
 
 ## EDUCATION
 | Degree        | College                                       | Course            | Duration      | Result(%) |
-|:------------- |:--------------------------------------------- |:----------------- |:------------- |:----------|
+|:--------------|:----------------------------------------------|:------------------|:------------- |:----------|
 |B.Tech         | ABES ENGINEERING COLLEGE, Ghaziabad           | Computer Science  | 2015-2019     | 71.6      |
 |Intermediate   | N. D. Boys Inter College, Kaushambi           | Science           | 2013-2014     | 78.8      |
 |High School    | Harish Chnadra Inter College Boys, Varanasi   | Science           | 2011-2012     | 79.5      |
