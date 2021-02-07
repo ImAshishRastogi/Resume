@@ -1,5 +1,5 @@
 
-# ASHISH RASTOGI [RESUME](https://imashishrastogi.github.io/Resume/)
+# ASHISH RASTOGI [resume](https://imashishrastogi.github.io/Resume/)
 
 
 ## ABOUT 
