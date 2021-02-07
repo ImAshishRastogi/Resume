@@ -85,3 +85,4 @@ performing analysis of obtained data.
 </dl>
 
 ## INTERESTS
+**`PC Games`** **`Guitar`** **`Chess`** **`Movies & Tv Series`** **`Table Tannis`**
