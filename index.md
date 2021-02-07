@@ -44,14 +44,14 @@ and a proactive demeanor.**
 ---
 ### Voice Assistant System
 `Jan,2019 - Jun,2019`
- - Done R&D on speech recognition OSS and integrated to telecommunication project which include collection, operation and recognition on Realtime speech data.
+ - Done R&D on speech recognition OSS and integrated to telecommunication project which include collection, operation and recognition on real-time speech data.
  - Recognized speech data was used to perform respected operation in response.
  - Technology Used : **Node.js**, **PHP**, **MongoDB**, **Asterisk**, **Julius**, **GIT**.
 
 ### Essence - Online Book Store and Book Recommendation System
 `Jul,2018 - Sep,2019`
  - A recommendation system which uses Collaborative Filtering for recommending books to the user by finding the other users who in past have liked the similar books and what other books they have liked.
- - Technology Used : **Spring Boot**, **RESTful APIs**, **PHP**, **HTML/CSS**, **MySQL**, R**.
+ - Technology Used : **Spring Boot**, **RESTful APIs**, **PHP**, **HTML/CSS**, **MySQL**, **R**.
 
 ### Analysis of data using Hadoop Map-Reduce
 `Jun,2018 - Aug,2018`
@@ -66,7 +66,7 @@ and a proactive demeanor.**
 
 #### Participation Certificate - SNACKDOWN 2017
 `May,2017`
-> Particiapte in programming competition to improve problem solving skills
+> Participate in programming competition to improve problem solving skills
 
 ## LANGUAGE
 ---
