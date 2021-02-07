@@ -1,3 +1,7 @@
+---
+title: Ashish Rastogi
+description: Resourceful Software Developer with knowledge of Java and C++. 
+---
 ## ABOUT 
 **Resourceful Software Developer with knowledge of Java and C++. Looking to bring further success to desired organization through a strong skill set
 and a proactive demeanor.**
@@ -39,46 +43,49 @@ phones to enable the voice assistance feature.
 for JULIUS by training the sample audio data using HTK toolkit .
 
 ## EDUCATION
-Degree | College | Course | Duration | Result(%)
------------- | ------------- | ------------- | ------------- | -------------
-B.Tech | ABES ENGINEERING COLLEGE, Ghaziabad | Computer Science | 2015-2019 | 71.6
-Intermediate | N. D. Boys Inter College, Kaushambi | Science | 2013-2014 | 78.8
-High School | Harish Chnadra Inter College Boys, Varanasi | Science | 2011-2012 | 79.5
+| Degree        | College                                       | Course            | Duration      | Result(%)
+|:------------- |:--------------------------------------------- |:----------------- |:------------- |:-------------
+|B.Tech         | ABES ENGINEERING COLLEGE, Ghaziabad           | Computer Science  | 2015-2019     | 71.6
+|Intermediate   | N. D. Boys Inter College, Kaushambi           | Science           | 2013-2014     | 78.8
+|High School    | Harish Chnadra Inter College Boys, Varanasi   | Science           | 2011-2012     | 79.5
 
 ## PERSONAL PROJECT
+#### Voice Assistant System
+`Jan,2019 - Jun,2019`
+ - Done R&D on speech recognition OSS and integrated to telecommunication
+project which include collection, operation and recognition on Realtime
+speech data.
+ - Recognized speech data was used to perform respected operation in
+response.
+ - Technology Used : Node.js, PHP, MongoDB, Asterisk, Julius, GIT.
 
-You can use the [editor on GitHub](https://github.com/ImAshishRastogi/demo-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+#### Essence - Online Book Store and Book Recommendation System
+`Jul,2018 - Sep,2019`
+ - A recommendation system which uses Collaborative Filtering for
+recommending books to the user by finding the other users who in past
+have liked the similar books and what other books they have liked.
+ - Technology Used : Spring Boot, RESTful APIs, PHP, HTML/CSS, MySQL, R.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Analysis of data using Hadoop Map-Reduce
+ - Develop Hadoop code to process big data files using Map-Reduce and
+performing analysis of obtained data.
+ - Technology Used : Java, MongoDB.
+ 
+## ACHIEVEMENTS & CERTIFICATES
+#### SPOT(Special Performance on Time) Award
+`Jul,2020`
+> For providing an efficient solution to a real-time problem in live project.
 
-### Markdown
+#### Participation Certificate - SNACKDOWN 2017
+`May,2017`
+> Particiapte in programming competition to improve problem solving skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## LANGUAGE
+<dl>
+<dt>English</dt>
+<dd>Professional Working Proficiency</dd>
+<dt>Hindi</dt>
+<dd>Native or Bilingual Proficiency</dd>
+</dl>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ImAshishRastogi/demo-cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## INTERESTS
