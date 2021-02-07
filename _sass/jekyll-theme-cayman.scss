@@ -202,7 +202,6 @@ a {
   }
 
   h1,
-  h2,
   h3,
   h4,
   h5,
@@ -211,6 +210,14 @@ a {
     margin-bottom: 1rem;
     font-weight: normal;
     color: $section-headings-color;
+  }
+  
+  h2 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: normal;
+    color: $section-headings-color;
+    text-align: center;
   }
 
   p {
