@@ -17,7 +17,7 @@ and a proactive demeanor.**
 
 ## EXPERIENCE
 ---
-### Member of Technical Staff at *`NEC Corporation India Private Limited, Noida`* 
+### Member of Technical Staff at **`NEC Corporation India Private Limited, Noida`** 
 `Jul,2019 - present`
  - Worked on a Telecommunication Project where I got to work on various IP phones along with various **Networking Protocols** and APIs.
  - Development of **User Based Hot desking** for allowing user to be logged-in from any remote location in IP phones using **C/C++**.
