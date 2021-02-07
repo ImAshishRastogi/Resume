@@ -12,7 +12,7 @@ and a proactive demeanor.**
 
 ## SKILLS
 ---
-**`C`** **`C++`** **`Core Java`** **`Data Strcuture`** **`Networking protocols`** **`Window Server`** **`Cisco Switch`** **`Wireshark`** **`OpeSSL`** **`Problem Solving`** **`MongoDB`** **`MySQL`** **`Project Coordination`**
+**`C`** **`C++`** **`Core Java`** **`Data Structure`** **`Networking protocols`** **`Window Server`** **`Cisco Switch`** **`Wireshark`** **`OpenSSL`** **`Problem Solving`** **`MongoDB`** **`MySQL`** **`Project Coordination`**
 
 ## EXPERIENCE
 ---
@@ -20,7 +20,7 @@ and a proactive demeanor.**
 `Jul,2019 - present`
  - Worked on a Telecommunication Project where I got to work on various IP phones along with various **Networking Protocols** and APIs.
  - Development of **User Based Hot desking** for allowing user to be logged-in from any remote location in IP phones using **C/C++**.
- - Frontend and Backend Development of **Feature Display Support** for displaying the certain features in detailed by fetching data from backend.
+ - Frontend and Backend Development of **Feature Display Support** for displaying the certain features in detail by fetching data from backend.
  - Upgradation of **OpenSSL** API along with **CURL**,**NTP** and **wpa_supplicant** APIs which has been used by various modules for secure communication and transferring of information/data.
  - Effectively resolved various issues/bugs including intermittent issues.
  - Created various customizable **SIP** and other **networking packets** to send over network with help of **sipp** or **ColaSoft** which helped infeasibility check, development, BUG verification and UT.
