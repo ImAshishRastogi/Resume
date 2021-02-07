@@ -1,7 +1,7 @@
 ---
 layout: default
+title: Ashish Rastogi
 ---
-
 
 ## ABOUT 
 ---
@@ -9,11 +9,11 @@ layout: default
 and a proactive demeanor.**
 
 ## SKILLS
-
+---
 **`C`** **`C++`** **`Core Java`** **`Data Strcuture`** **`Networking protocols`** **`Window Server`** **`Cisco Switch`** **`Wireshark`** **`OpeSSL`** **`Problem Solving`** **`MongoDB`** **`MySQL`** **`Project Coordination`**
 
 ## EXPERIENCE
-
+---
 ### Member of Technical Staff at *`NEC Corporation India Private Limited, Noida`* 
 `Jul,2019 - present`
  - Worked on a Telecommunication Project where I got to work on various IP phones along with various Networking Protocols and APIs.
@@ -40,7 +40,7 @@ and a proactive demeanor.**
 |High School    | Harish Chnadra Inter College Boys, Varanasi   | Science           | 2011-2012     | 79.5      |
 
 ## PERSONAL PROJECT
-
+---
 ### Voice Assistant System
 `Jan,2019 - Jun,2019`
  - Done R&D on speech recognition OSS and integrated to telecommunication project which include collection, operation and recognition on Realtime speech data.
@@ -58,7 +58,7 @@ and a proactive demeanor.**
  - Technology Used : Java, MongoDB.
  
 ## ACHIEVEMENTS & CERTIFICATES
-
+---
 ### SPOT(Special Performance on Time) Award
 `Jul,2020`
 > For providing an efficient solution to a real-time problem in live project.
@@ -68,6 +68,7 @@ and a proactive demeanor.**
 > Particiapte in programming competition to improve problem solving skills
 
 ## LANGUAGE
+---
 <dl>
 <dt>English</dt>
 <dd>Professional Working Proficiency</dd>
@@ -76,4 +77,5 @@ and a proactive demeanor.**
 </dl>
 
 ## INTERESTS
+---
 **`PC Games`** **`Guitar`** **`Chess`** **`Movies & Tv Series`** **`Table Tannis`**
