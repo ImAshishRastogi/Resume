@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Ashish Rastogi
-email : random@gmail.com
-number : +911234567890
+linkedInURL: https://www.linkedin.com/in/ashish-rastogi-520/
+email : rastogiashish52@gmail.com
+number : +917838167990
 ---
 
 ## ABOUT 
@@ -40,7 +41,7 @@ and a proactive demeanor.**
 |:--------------|:----------------------------------------------|:------------------|:------------- |:----------|
 |B.Tech         | ABES ENGINEERING COLLEGE, Ghaziabad           | Computer Science  | 2015-2019     | 71.6      |
 |Intermediate   | N. D. Boys Inter College, Kaushambi           | Science           | 2013-2014     | 78.8      |
-|High School    | Harish Chnadra Inter College Boys, Varanasi   | Science           | 2011-2012     | 79.5      |
+|High School    | Harish Chandra Inter College Boys, Varanasi   | Science           | 2011-2012     | 79.5      |
 
 ## PERSONAL PROJECT
 ---
