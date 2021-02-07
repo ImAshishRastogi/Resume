@@ -3,6 +3,7 @@ layout: default
 ---
 
 ## ABOUT 
+---
 **Resourceful Software Developer with knowledge of Java and C++. Looking to bring further success to desired organization through a strong skill set
 and a proactive demeanor.**
 
