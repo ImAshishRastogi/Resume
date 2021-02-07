@@ -33,6 +33,7 @@ and a proactive demeanor.**
 
 ## EDUCATION
 ---
+
 | Degree        | College                                       | Course            | Duration      | Result(%) |
 |:--------------|:----------------------------------------------|:------------------|:------------- |:----------|
 |B.Tech         | ABES ENGINEERING COLLEGE, Ghaziabad           | Computer Science  | 2015-2019     | 71.6      |
