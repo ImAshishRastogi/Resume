@@ -18,7 +18,7 @@ and a proactive demeanor.**
 ## EXPERIENCE
 ---
 ### Member of Technical Staff at **`NEC Corporation India Private Limited, Noida`** 
-`Jul,2019 - present`
+_**`Jul,2019 - present`**_
  - Worked on a Telecommunication Project where I got to work on various IP phones along with various **Networking Protocols** and APIs.
  - Development of **User Based Hot desking** for allowing user to be logged-in from any remote location in IP phones using **C/C++**.
  - Frontend and Backend Development of **Feature Display Support** for displaying the certain features in detail by fetching data from backend.
@@ -29,8 +29,8 @@ and a proactive demeanor.**
  - Configured **HP** and **cisco switch**.
  - Well versed with continuous development using **SVN** and Agile Tools like **JIRA** .
 
-### Trainee at *`NEC Corporation India Private Limited, Noida`*
-`Jan,2019 - Jun,2019`
+### Trainee at **`NEC Corporation India Private Limited, Noida`**
+_**`Jan,2019 - Jun,2019`**_
  - Development and Integration of a Speech Recognition System in IP phones to enable the voice assistance feature.
  - Created an automation script in **php** which creates acoustic model for **JULIUS** by training the sample audio data using HTK toolkit .
 
@@ -46,29 +46,29 @@ and a proactive demeanor.**
 ## PERSONAL PROJECT
 ---
 ### Voice Assistant System
-`Jan,2019 - Jun,2019`
+_**`Jan,2019 - Jun,2019`**_
  - Done R&D on speech recognition OSS and integrated to telecommunication project which include collection, operation and recognition on real-time speech data.
  - Recognized speech data was used to perform respected operation in response.
  - Technology Used : **Node.js**, **PHP**, **MongoDB**, **Asterisk**, **Julius**, **GIT**.
 
 ### Essence - Online Book Store and Book Recommendation System
-`Jul,2018 - Sep,2019`
+_**`Jul,2018 - Sep,2019`**_
  - A recommendation system which uses Collaborative Filtering for recommending books to the user by finding the other users who in past have liked the similar books and what other books they have liked.
  - Technology Used : **Spring Boot**, **RESTful APIs**, **PHP**, **HTML/CSS**, **MySQL**, **R**.
 
 ### Analysis of data using Hadoop Map-Reduce
-`Jun,2018 - Aug,2018`
+_**`Jun,2018 - Aug,2018`**_
  - Develop Hadoop code to process big data files using Map-Reduce and performing analysis of obtained data.
  - Technology Used : Java, MongoDB.
  
 ## ACHIEVEMENTS & CERTIFICATES
 ---
 ### SPOT(Special Performance on Time) Award
-`Jul,2020`
+_**`Jul,2020`**_
 > For providing an efficient solution to a real-time problem in live project.
 
 #### Participation Certificate - SNACKDOWN 2017
-`May,2017`
+_**`May,2017`**_
 > Participate in programming competition to improve problem solving skills
 
 ## LANGUAGE
