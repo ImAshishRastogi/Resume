@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Ashish Rastogi
+email : random@gmail.com
+number : +911234567890
 ---
 
 ## ABOUT 
