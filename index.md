@@ -3,7 +3,7 @@ layout: default
 title: Ashish Rastogi
 linkedInURL: https://www.linkedin.com/in/ashish-rastogi-520/
 email : rastogiashish52@gmail.com
-number : +917838167990
+number : 7838167990
 ---
 
 ## ABOUT 
