@@ -2,6 +2,8 @@
 Resourceful Software Developer with knowledge of Java and C++. Looking to bring further success to desired organization through a strong skill set
 and a proactive demeanor.
 
+### SKILLS
+'C' 'C++'
 ### EXPERIENCE
 
 You can use the [editor on GitHub](https://github.com/ImAshishRastogi/demo-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
