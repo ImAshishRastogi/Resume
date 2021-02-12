@@ -31,7 +31,16 @@
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
         <a href="{{ page.linkedInURL }}" class="btn">View on LinkedIn</a>
         <a href="https://mail.google.com/mail/?view=cm&fs=1&to={{page.email}}" class="btn">{{ page.email }}</a>
-        <a class="btn">{{ page.number }}</a>
+        <a class="btn" id="phone_number" onclick="CopyToClipBoard()">{{ page.number }}</a>
+        <script>
+          function CopyToClipBoard() {
+            var num = document.getElementById("phone_number");
+            num.select();
+            nmm.setSelectionRange(0,99999);
+            document.execCommand("copy");
+            alert("Copied to Clipboard");
+          }
+        </script>
       {% endif %}
       {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
