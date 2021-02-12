@@ -47,10 +47,14 @@
 
           if (x.innerHTML === "Dark Theme") {
               x.innerHTML = "White Theme";
-              element.classList.toggle("main-content-dark-mode");
+              //element.classList.toggle("main-content-dark-mode");
+              element.classList.remove("main-content");
+              element.classList.add("main-content-dark-mode");
           } else {
               x.innerHTML = "Dark Theme";
-              element.classList.toggle("main-content");
+              //element.classList.toggle("main-content");
+              element.classList.remove("main-content-dark-mode");
+              element.classList.add("main-content");
           }
         }
       </script>
