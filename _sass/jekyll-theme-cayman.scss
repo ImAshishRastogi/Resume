@@ -167,7 +167,7 @@ a {
   }
 
   @include large {
-    max-width: 64rem;
+    max-width: 300rem;
     padding: 2rem 6rem;
     margin: 0 auto;
     font-size: 1.1rem;
@@ -407,7 +407,7 @@ a {
   }
 
   @include large {
-    max-width: 64rem;
+    max-width: 300rem;
     padding: 2rem 6rem;
     margin: 0 auto;
     font-size: 1.1rem;
@@ -441,46 +441,6 @@ a {
     max-width: 100%;
   }
   
-.profile-image a {
-  position: relative; 
-  }
-
-.profile-image a:before {
-  content: "";
-  border: 15px solid rgba(55, 140, 63, 0.6);
-  border-radius: 50%;
-  height: 180px;
-  width: 180px;
-  position: absolute;
-  left: 0;
-  -webkit-animation: pulsate 1.6s ease-out;
-          animation: pulsate 1.6s ease-out;
-  -webkit-animation-iteration-count: infinite;
-          animation-iteration-count: infinite;
-  opacity: 0.0;
-  z-index: 99; 
-  }
-
-.profile-image img {
-  position: relative;
-  border-radius: 50%;
-  height: 180px;
-  width: 180px;
-  padding: 0;
-  margin: 0;
-  border: 15px solid transparent;
-  z-index: 9999;
-  transition: all .3s ease-out; 
-  }
-
-.profile-image a:hover img {
-  transform: scale(1.06, 1.06); 
-  }
-
-.profile-image a:hover:before {
-  -webkit-animation: none;
-          animation: none; 
-  }
   
   h1,
   h3,
