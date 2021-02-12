@@ -35,10 +35,10 @@
         <script>
           function CopyToClipBoard() {
             var num = document.getElementById("phone_number");
-            num.select();
+            //num.select();
             nmm.setSelectionRange(0,99999);
             document.execCommand("copy");
-            alert("Copied to Clipboard");
+            //alert("Copied to Clipboard");
           }
         </script>
       {% endif %}
