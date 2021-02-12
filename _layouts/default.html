@@ -34,8 +34,8 @@
         <a class="btn" id="phone_number" onclick="CopyToClipBoard()">{{ page.number }}</a>
         <script>
           function CopyToClipBoard() {
-            var num = document.getElementById("phone_number").innerHTML;
-            //num.value = document.getElementById("phone_number").innerHTML;
+            var num = document.getElementById("phone_number");
+            num.value = document.getElementById("phone_number").innerHTML;
             num.select();
             //nmm.setSelectionRange(0,99999);
             document.execCommand("copy");
