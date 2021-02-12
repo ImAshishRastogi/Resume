@@ -31,7 +31,6 @@ body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: $body-text-color;
 }
 
 #skip-to-content {
@@ -161,6 +160,7 @@ a {
 
 .main-content {
   word-wrap: break-word;
+  color: $body-text-color;
 
   :first-child {
     margin-top: 0;
@@ -400,6 +400,7 @@ a {
 
 .main-content-dark-mode {
   word-wrap: break-word;
+  color: $body-text-dark-mode-color;
   background-color: $main-content-dark-mode-color;
 
   :first-child {
