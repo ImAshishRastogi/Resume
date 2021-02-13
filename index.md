@@ -13,7 +13,7 @@ and a proactive demeanor.**
 
 ## SKILLS
 ---
-**`C`** **`C++`** **`Core Java`** **`Data Structure`** **`Networking protocols`** **`Window Server`** **`Cisco Switch`** **`Wireshark`** **`OpenSSL`** **`Problem Solving`** **`MongoDB`** **`MySQL`** **`Project Coordination`**
+**`C`** **`C++`** **`Core Java`** **`Data Structure`** **`Algorithms`** **`Networking protocols`** **`Window Server`** **`Cisco Switch`** **`Wireshark`** **`OpenSSL`** **`Problem Solving`** **`MongoDB`** **`MySQL`** **`Project Coordination`**
 
 ## EXPERIENCE
 ---
