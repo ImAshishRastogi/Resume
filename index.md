@@ -20,9 +20,9 @@ and a proactive demeanor.**
 ### Member of Technical Staff at **`NEC Corporation India Private Limited, Noida`** 
 _**`Jul,2019 - present`**_
  - Worked on a Telecommunication Project where I got to work on various IP phones along with various **Networking Protocols** and APIs.
- - Development of **User Based Hot desking** for allowing user to be logged-in from any remote location in IP phones using **C/C++**.
- - Frontend and Backend Development of **Feature Display Support** for displaying the certain features in detail by fetching data from backend.
- - Upgradation of **OpenSSL** API along with **CURL**,**NTP**, and **wpa_supplicant** APIs which have been used by various modules for secure communication and transferring of information/data.
+ - Development of **User-Based Hot desking** for allowing the user to be logged-in from any remote location in IP phones using **C/C++**.
+ - Frontend and Backend Development of **Feature Display Support** for displaying certain features in detail by fetching data from the backend.
+ - Upgradation of **OpenSSL** API along with **CURL**, **NTP**, and **wpa_supplicant** APIs which have been used by various modules for secure communication and transferring of information/data.
  - Effectively resolved various issues/bugs including intermittent issues.
  - Created various customizable **SIP** and other **networking packets** to send over network with help of **sipp** or **ColaSoft** which helped infeasibility check, development, BUG verification, and UT.
  - Configured and Managed the **Window Server** from scratch which include **DHCP**, **DNS**, **IIS** (**FTP** and **HTTPS**)configuration.
@@ -32,7 +32,7 @@ _**`Jul,2019 - present`**_
 ### Trainee at **`NEC Corporation India Private Limited, Noida`**
 _**`Jan,2019 - Jun,2019`**_
  - Development and Integration of a Speech Recognition System in IP phones to enable the voice assistance feature.
- - Created an automation script in **php** which creates acoustic model for **JULIUS** by training the sample audio data using HTK toolkit .
+ - Created an automation script in **PHP** which creates an acoustic model for **JULIUS** by training the sample audio data using HTK toolkit.
 
 ## EDUCATION
 ---
