@@ -48,7 +48,7 @@
       }
       function copyToClipBoard(val) {
         var el = document.createElement('textarea');
-        el.value = val.value;
+        el.value = val;
         el.setAttribute('readonly', '');
         el.style = { position: 'absolute', left: '-9999px' };
         document.body.appendChild(el);
