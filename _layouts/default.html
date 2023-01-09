@@ -35,13 +35,20 @@
     {% if site.info %}
     <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
     <a href="{{ page.linkedInURL }}" class="btn">View on LinkedIn</a>
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to={{page.email}}" class="btn">{{ page.email }}</a>
-    <a class="btn" id="phone_number" onclick="CopyToClipBoard()">{{ page.number }}</a>
+    <a class="btn" id="email" onclick="copyEmail()">{{ page.email }}</a>
+    <a class="btn" id="phone_number" onclick="copyNumber()">{{ page.number }}</a>
     <script>
-      function CopyToClipBoard() {
+      function copyEmail() {
+        var email = document.getElementById("email").innerHTML;
+        copyToClipBoard(email);
+      }
+      function copyNumber() {
         var num = document.getElementById("phone_number").innerHTML;
+        copyToClipBoard(num);
+      }
+      function copyToClipBoard(val) {
         var el = document.createElement('textarea');
-        el.value = num.value;
+        el.value = val.value;
         el.setAttribute('readonly', '');
         el.style = { position: 'absolute', left: '-9999px' };
         document.body.appendChild(el);
