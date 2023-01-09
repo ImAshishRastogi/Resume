@@ -12,8 +12,14 @@ and a proactive demeanor.**
 
 ## EXPERIENCE
 
+### Software Devloper|MTS-1 at *`Ameyo(Merged with Exotel in Jun,2021`*
+`Jun,2021 - present`
+ - **Exotel Web SDK** : developed a webrtc sdk that can provide an voip experience on browser. it has been developed to be used in both enviornment npm and non-npm.
+ 
+    demo url: https://github.com/exotel/exotel-voip-websdk-sampleapp
+ - 
 ### Member of Technical Staff at *`NEC Corporation India Private Limited, Noida`* 
-`Jul,2019 - present`
+`Jul,2019 - May,2021`
  - Worked on a Telecommunication Project where I got to work on various IP phones along with various **Networking Protocols** and APIs.
  - Development of **User Based Hot desking** for allowing user to be logged-in from any remote location in IP phones using **C/C++**.
  - Frontend and Backend Development of **Feature Display Support** for displaying the certain features in detailed by fetching data from backend.
