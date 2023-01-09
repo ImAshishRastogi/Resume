@@ -8,31 +8,75 @@ number : 7838167990
 
 ## ABOUT 
 ---
+
 **Resourceful Software Developer with knowledge of Java and C++. Looking to bring further success to the desired organization through a strong skill set
 and a proactive demeanor.**
 
 ## SKILLS
 ---
+
 **`C`** **`C++`** **`Core Java`** **`OOPS`** **`Data Structure`** **`Spring`** **`Maven`** **`Algorithms`** **`Networking protocols`** **`Window Server`** **`Cisco Switch`** **`Wireshark`** **`OpenSSL`** **`Problem Solving`** **`MongoDB`** **`MySQL`** **`Project Coordination`**
 
 ## EXPERIENCE
 ---
+### Software Devloper|MTS-1 at **`Ameyo(Merged with Exotel in Jun,2021`**
+
+_**`Jun,2021 - present`**_
+
+ - worked under a backend team that focused on ameyo call centre software which have prime feature of inbound and outbound calling. 
+
+- contributed in **scoping** and **designing** new features. 
+wrote and developed new and **well tested code** in varient modules of ameyo call centre product.
+Also managed **system testing and validation procedures** to gauge reliability.
+
+- consulted for project development and pruposals. Also given **demos of developed feature** to higher management and other department. 
+
+- actively and effectively resolved various issues by **providing instant workaround, fixing bug , improving debugging approch and creating proper documentation**.
+
+- Recent work - **Exotel Web SDK** : developed a webrtc sdk that can provide an voip experience on browser. it has been developed to be used in both enviornment npm and non-npm.
+    
+    demo url: https://github.com/exotel/exotel-voip-websdk-sampleapp
+
+- learning go lang to stretch my development skills.
+
+- worked on Tech Stacks: **Java**,**Javascript**,**C**,**Postgres**,**Linux**,**Asterisk**,**PostgresSQL**,**Spring**,**React**,**nodejs**,**WebRTC**,**Postman**
+- Tools used : 
+
+    **gitlab**,**bitbucket** for version controlling 
+    
+    **jira** for issue tracking
+    
+    **confluence** for documentaion and collabration
+
+
 ### Member of Technical Staff at **`NEC Corporation India Private Limited, Noida`** 
 _**`Jul,2019 - present`**_
  - Worked on a Telecommunication Project where I got to work on the development of firmware of various SIP phones with various **Networking Protocols** and APIs and libraries in **C/C++**.
+
  - Development of **User-Based Hot desking** for allowing the user to be logged-in from any remote location in IP phones using **C/C++** with **OOPS** implementation.
+
  - Frontend and Backend Development of **Feature Display Support** for displaying certain features in detail by fetching data from the backend with help of **Data Structures**, **STL**, and **message queues** in **C++**.
+
  - Upgradation of **OpenSSL** API along with **CURL**, **NTP**, and **wpa_supplicant** APIs which have been used by various modules for secure communication and transferring of information/data.
+
  - Effectively resolved various issues/bugs including intermittent issues with help of **debugging skills**, **Algorithms**, **Data Structures**, and **OOPs concepts**.
+
  - Created various customizable **SIP** and other **networking packets** to send over network with help of **sipp** or **ColaSoft** which helped infeasibility check, development, BUG verification, and UT.
+
  - Configured and Managed the **Window Server** from scratch which include **DHCP**, **DNS**, **IIS** (**FTP**, **TFTP** and **HTTPS**)configuration.
+
  - Configured **HP** and **cisco switch**.
+
  - Hands on experience in Networking tools like **WIreShark**, **sipp**, **colasoft** etc.
+
  - Well versed with continuous development using **SVN** and Agile Tools like **JIRA** .
 
 ### Trainee at **`NEC Corporation India Private Limited, Noida`**
+
 _**`Jan,2019 - Jun,2019`**_
+
  - Development and Integration of a Speech Recognition System in IP phones to enable the voice assistance feature.
+
  - Created an automation script in **PHP** which creates an acoustic model for **JULIUS** by training the sample audio data using HTK toolkit.
 
 ## EDUCATION
