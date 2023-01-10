@@ -49,7 +49,9 @@ Also managed **system testing and validation procedures** to gauge reliability.
 
 
 ### Member of Technical Staff at **`NEC Corporation India Private Limited, Noida`** 
-_**`Jul,2019 - present`**_
+
+_**`Jul,2019 - May,2021`**_
+
  - Worked on a Telecommunication Project where I got to work on the development of firmware of various SIP phones with various **Networking Protocols** and APIs and libraries in **C/C++**.
 
  - Development of **User-Based Hot desking** for allowing the user to be logged-in from any remote location in IP phones using **C/C++** with **OOPS** implementation.
