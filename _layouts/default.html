@@ -55,7 +55,7 @@
         el.select();
         document.execCommand('copy');
         document.body.removeChild(el);
-        alert(val+" copied to Clipboard");
+        alert(el.value+" copied to Clipboard");
       }
     </script>
     {% endif %}

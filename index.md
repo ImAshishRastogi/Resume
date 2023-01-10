@@ -15,7 +15,7 @@ and a proactive demeanor.**
 ## SKILLS
 ---
 
-**`C`** **`C++`** **`Core Java`** **`OOPS`** **`Data Structure`** **`Spring`** **`Maven`** **`Algorithms`** **`Networking protocols`** **`Window Server`** **`Cisco Switch`** **`Wireshark`** **`OpenSSL`** **`Problem Solving`** **`MongoDB`** **`MySQL`** **`Project Coordination`**
+**`Java`**  **`javascript`** **`C/C++`** **`PostgresSQL`** **`MySQL`** **`OOPS`** **`Data Structure`** **`Spring`** **`REST`** **`nodejs`** **`Linux`** **`Algorithms`** **`Networking protocols`** **`Wireshark`**   **`git`** 
 
 ## EXPERIENCE
 ---
@@ -29,7 +29,7 @@ _**`Jun,2021 - present`**_
 wrote and developed new and **well tested code** in varient modules of ameyo call centre product.
 Also managed **system testing and validation procedures** to gauge reliability.
 
-- consulted for project development and pruposals. Also given **demos of developed feature** to higher management and other department. 
+- consulted for project development and proposals. Also given **demos of developed feature** to higher management and other department. 
 
 - actively and effectively resolved various issues by **providing instant workaround, fixing bug , improving debugging approch and creating proper documentation**.
 
