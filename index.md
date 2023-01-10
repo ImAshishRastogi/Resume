@@ -9,9 +9,7 @@ number : 7838167990
 ## ABOUT 
 ---
 
-**Resourceful Software Developer with knowledge of Java and C++. Looking to bring further success to the desired organization through a strong skill set
-and a proactive demeanor.**
-
+**Resourceful Software Developer with 3+ years of industrial experience. Proficient at Java, Javascript, SQL, Node js. Ability to implement well tested and documented code along with scoping, designing and mainting aesthetics.**
 ## SKILLS
 ---
 
