@@ -9,7 +9,7 @@ number : 7838167990
 ## ABOUT 
 ---
 
-**Resourceful Software Developer with 3+ years of industrial experience. Proficient at Java, Javascript, SQL, Node js. Ability to implement well tested and documented code along with scoping, designing and mainting aesthetics.**
+**Resourceful Software Developer with 3+ years of industrial experience. Proficient at Java, Javascript, SQL, Node js. Ability to implement well tested and documented code along with scoping, designing and maintaining aesthetics.**
 ## SKILLS
 ---
 
@@ -17,34 +17,35 @@ number : 7838167990
 
 ## EXPERIENCE
 ---
-### Software Devloper|MTS-1 at **`Ameyo(Merged with Exotel in Jun,2021`**
+### Software Devloper|MTS-1 at **`Ameyo(Merged with Exotel in Jun,2021)`**
 
 _**`Jun,2021 - present`**_
 
- - worked under a backend team that focused on ameyo call centre software which have prime feature of inbound and outbound calling. 
+ - Worked under a backend team that focused on ameyo call centre software which has prime feature of inbound and outbound calling. 
 
-- contributed in **scoping** and **designing** new features. 
-wrote and developed new and **well tested code** in varient modules of ameyo call centre product.
+- Contributed in **scoping** and **designing** new features. 
+wrote and developed **well tested code** in varient modules of ameyo call centre product.
 Also managed **system testing and validation procedures** to gauge reliability.
 
-- consulted for project development and proposals. Also given **demos of developed feature** to higher management and other department. 
+- Consulted for project development and proposals. And presented **demos of developed feature** to higher management and other department. 
 
-- actively and effectively resolved various issues by **providing instant workaround, fixing bug , improving debugging approch and creating proper documentation**.
+- Actively and succesfully resolved variety of issues, bugs and concerns by **providing instant workaround, fixing bug , improving debugging approch and creating proper documentation**.
 
-- Recent work - **Exotel Web SDK** : developed a webrtc sdk that can provide an voip experience on browser. it has been developed to be used in both enviornment npm and non-npm.
+- Recent work - **Exotel Web SDK** : developed a webrtc based sdk that can provide an voip experience on browser. it has been developed to be used in both enviornment npm and non-npm.
     
     demo url: https://github.com/exotel/exotel-voip-websdk-sampleapp
 
-- learning go lang to stretch my development skills.
+- learning **GO language** to enhance my development skills.
 
-- worked on Tech Stacks: **Java**,**Javascript**,**C**,**Postgres**,**Linux**,**Asterisk**,**PostgresSQL**,**Spring**,**React**,**nodejs**,**WebRTC**,**Postman**
+- Worked on Tech Stacks: **Java**,**Javascript**,**C**,**Linux**,**Asterisk**,**PostgresSQL**,**Spring**,**React**,**nodejs**,**WebRTC**,**Postman**
+
 - Tools used : 
 
-    **gitlab**,**bitbucket** for version controlling 
+    **gitlab**,**bitbucket** for version controlling. 
     
-    **jira** for issue tracking
+    **jira** for issue tracking.
     
-    **confluence** for documentaion and collabration
+    **confluence** for documentaion and collaboration.
 
 
 ### Member of Technical Staff at **`NEC Corporation India Private Limited, Noida`** 
