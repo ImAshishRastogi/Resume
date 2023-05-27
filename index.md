@@ -23,10 +23,10 @@ _**`Jun,2021 - present`**_
 
  - Worked under a backend team that focused on ameyo call centre software which has prime feature of inbound and outbound calling. 
 
-- Recent work - 
-- - **Exotel Web SDK** : developed a webrtc based sdk that can provide an voip experience on browser. 
+- Recent work 
+  - **Exotel Web SDK** : developed a webrtc based sdk that can provide an voip experience on browser. 
   demo: https://github.com/exotel/exotel-voip-websdk-sampleapp 
-- - **iOS App** : develop an ios app from scratch that can provide voip experience in app to app. And delivered an already existing native SDK aka Exotel App2App which enable customer to integrate voip experience in their app for both platform iOS and android. 
+  - **iOS App** : develop an ios app from scratch that can provide voip experience in app to app. And delivered an already existing native SDK aka Exotel App2App which enable customer to integrate voip experience in their app for both platform iOS and android. 
 
 - Contributed in **scoping** and **designing** new features. 
 wrote and developed **well tested code** in varient modules of ameyo call centre product.
