@@ -23,10 +23,10 @@ _**`Apr,2023 - present`**_
 
  - Working under Platform team that involved in development of voice application on various platform.
  - Recent task
-    - **iOS App** : develop an ios app from scratch that can provide voip experience in app to app. 
-    - **Exotel App2App** : delivered an native SDK which enable customer to integrate voip experience in their app for both platform iOS and android.
+    - **iOS App** : Develop an ios app from scratch that can provide voip experience in app to app. 
+    - **Exotel App2App** : Delivered an native SDK which enable customer to integrate voip experience in their app for both platform iOS and android.
 
-- learning **Swift language** to enhance and expand my skills.
+- Learning **Swift language** to enhance and expand my skills.
 
 - Worked on Tech Stacks: **Swift**,**Java**,**Javascript**,**Linux**,**nodejs**,**WebRTC**,**Postman**
 
@@ -42,7 +42,7 @@ _**`Jun,2021 - Mar,2023`**_
  - Worked under a backend team that focused on ameyo call centre software which has prime feature of inbound and outbound calling. 
 
 - Recent work 
-  - **Exotel Web SDK** : developed a webrtc based sdk that can provide an voip experience on browser. 
+  - **Exotel Web SDK** : Developed a webrtc based sdk that can provide an voip experience on browser. 
   demo: https://github.com/exotel/exotel-voip-websdk-sampleapp 
 
 - Contributed in **scoping** and **designing** new features. 
