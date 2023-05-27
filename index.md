@@ -9,7 +9,7 @@ number : 7838167990
 ## ABOUT 
 ---
 
-**Resourceful Software Developer with 4+ years of industrial experience on various tech stacks. Proficient at Java, Javascript, SQL, Node js. Ability to implement well tested and documented code along with scoping, designing and maintaining aesthetics.**
+**Resourceful Software Developer with 4+ years of industrial experience on various tech stacks. Endowed with implementing well tested and documented code along with scoping, designing and maintaining aesthetics.**
 ## SKILLS
 ---
 
@@ -17,16 +17,33 @@ number : 7838167990
 
 ## EXPERIENCE
 ---
-### Software Devloper|MTS-2 at **`Ameyo(Merged with Exotel in Jun,2021)`**
+### Software Devloper|MTS-2 at **`Ameyo(Merged with Exotel)`**
 
-_**`Jun,2021 - present`**_
+_**`Apr,2023 - present`**_
+
+ - Working under Platform team that involved in development of voice application on various platform.
+ - Recent task
+    - **iOS App** : develop an ios app from scratch that can provide voip experience in app to app. 
+    - **Exotel App2App** : delivered an native SDK which enable customer to integrate voip experience in their app for both platform iOS and android.
+
+- learning **Swift language** to enhance and expand my skills.
+
+- Worked on Tech Stacks: **Swift**,**Java**,**Javascript**,**Linux**,**nodejs**,**WebRTC**,**Postman**
+
+- Tools used : 
+    - **gitlab**,**bitbucket** for version controlling. 
+    - **jira** for issue tracking.    
+    - **confluence** for documentaion and collaboration.
+
+### Software Devloper|MTS-1 at **`Ameyo(Merged with Exotel in Jun,2021)`**
+
+_**`Jun,2021 - Mar,2023`**_
 
  - Worked under a backend team that focused on ameyo call centre software which has prime feature of inbound and outbound calling. 
 
 - Recent work 
   - **Exotel Web SDK** : developed a webrtc based sdk that can provide an voip experience on browser. 
   demo: https://github.com/exotel/exotel-voip-websdk-sampleapp 
-  - **iOS App** : develop an ios app from scratch that can provide voip experience in app to app. And delivered an already existing native SDK aka Exotel App2App which enable customer to integrate voip experience in their app for both platform iOS and android. 
 
 - Contributed in **scoping** and **designing** new features. 
 wrote and developed **well tested code** in varient modules of ameyo call centre product.
@@ -36,17 +53,9 @@ Also managed **system testing and validation procedures** to gauge reliability.
 
 - Actively and succesfully resolved variety of issues, bugs and concerns by **providing instant workaround, fixing bug , improving debugging approch and creating proper documentation**.
 
-- learning **Swift language** to enhance and expand my skills.
-
 - Worked on Tech Stacks: **Swift**,**Java**,**Javascript**,**C**,**Linux**,**Asterisk**,**PostgresSQL**,**Spring**,**React**,**nodejs**,**WebRTC**,**Postman**
 
-- Tools used : 
 
-    **gitlab**,**bitbucket** for version controlling. 
-    
-    **jira** for issue tracking.
-    
-    **confluence** for documentaion and collaboration.
 
 
 ### Member of Technical Staff at **`NEC Corporation India Private Limited, Noida`** 
@@ -112,7 +121,10 @@ _**`Jun,2018 - Aug,2018`**_
 ---
 ### Medallion of Honor Award
 _**`April,2023`**_
-> Enabled Exotel App2App SDK lauch in short span for both platform iOS and Android.
+> Enabled Exotel App2App SDK launch in short span for both platform iOS and Android.
+
+###  Boundary Breaker Award
+_**`2022`**_
 
 ### SPOT(Special Performance on Time) Award
 _**`Jul,2020`**_
