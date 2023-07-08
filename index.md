@@ -24,7 +24,7 @@ _**`Apr,2023 - present`**_
  - Working under Platform team that involved in development of voice application on various platform.
  - Recent task
     - **iOS App** : Develop an ios app from scratch that can provide voip experience in app to app. 
-    - **Exotel App2App** : Delivered an native SDK which enable customer to integrate voip experience in their app for both platform iOS and android.
+    - **Exotel App2App** : Developed a native SDK which enable customer to integrate voip experience in their app for both platform iOS and android.
 
 - Learning **Go** and **Swift language** to enhance and expand my skills.
 
