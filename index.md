@@ -13,7 +13,7 @@ number : 7838167990
 ## SKILLS
 ---
 
-**`Java`**  **`javascript`** **`Swift`**  **`C/C++`** **`PostgresSQL`** **`MySQL`** **`OOPS`** **`Data Structure`** **`Spring`** **`REST`** **`JPA`** **`nodejs`** **`Linux`** **`Algorithms`** **`Networking protocols`** **`Wireshark`**   **`git`** 
+**`Java`**  **`javascript`** **`C/C++`**  **`Swift`** **`REST`**  **`PostgresSQL`** **`MySQL`** **`OOPS`** **`Data Structure`** **`Spring`**  **`JPA`** **`nodejs`** **`Linux`** **`Algorithms`** **`Networking protocols`** **`Wireshark`**   **`git`** 
 
 ## EXPERIENCE
 ---
@@ -26,14 +26,16 @@ _**`Apr,2023 - present`**_
     - **iOS App** : Develop an ios app from scratch that can provide voip experience in app to app. 
     - **Exotel App2App** : Delivered an native SDK which enable customer to integrate voip experience in their app for both platform iOS and android.
 
-- Learning **Swift language** to enhance and expand my skills.
+- Learning **Go** and **Swift language** to enhance and expand my skills.
 
-- Worked on Tech Stacks: **Swift**,**Java**,**Javascript**,**Linux**,**nodejs**,**WebRTC**,**Postman**
+- Worked on Tech Stacks: **Go**,**Swift**,**Java**,**Javascript**,**Linux**,**nodejs**,**WebRTC**
 
 - Tools used : 
-    - **gitlab**,**bitbucket** for version controlling. 
-    - **jira** for issue tracking.    
-    - **confluence** for documentaion and collaboration.
+    - **gitlab**,**bitbucket** : for version controlling. 
+    - **jira** : for issue tracking.    
+    - **confluence** : for documentaion and collaboration.
+    - **Postman** : API testing and validation.
+    - **Jenkins & Docker** : building and deployment of service containers
 
 ### Software Devloper|MTS-1 at **`Ameyo(Merged with Exotel in Jun,2021)`**
 
