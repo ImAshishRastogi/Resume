@@ -17,7 +17,7 @@ number : 7838167990
 
 ## EXPERIENCE
 ---
-### Software Devloper|MTS-2 at **`Ameyo(Merged with Exotel)`**
+### **Software Devloper|MTS-2** at **`Ameyo(Merged with Exotel)`**
 
 _**`Apr,2023 - present`**_
 
@@ -40,7 +40,7 @@ _**`Apr,2023 - present`**_
     - **Postman** : API testing and validation.
     - **Jenkins & Docker** : building and deployment of service containers
 
-### Software Devloper|MTS-1 at **`Ameyo(Merged with Exotel in Jun,2021)`**
+### **Software Devloper|MTS-1** at **`Ameyo(Merged with Exotel in Jun,2021)`**
 
 _**`Jun,2021 - Mar,2023`**_
 
@@ -63,7 +63,7 @@ Also managed **system testing and validation procedures** to gauge reliability.
 
 
 
-### Member of Technical Staff at **`NEC Corporation India Private Limited, Noida`** 
+### **Member of Technical Staff** at **`NEC Corporation India Private Limited, Noida`** 
 
 _**`Jul,2019 - May,2021`**_
 
@@ -87,7 +87,7 @@ _**`Jul,2019 - May,2021`**_
 
  - Well versed with continuous development using **SVN** and Agile Tools like **JIRA** .
 
-### Trainee at **`NEC Corporation India Private Limited, Noida`**
+### **Trainee** at **`NEC Corporation India Private Limited, Noida`**
 
 _**`Jan,2019 - Jun,2019`**_
 
@@ -106,36 +106,36 @@ _**`Jan,2019 - Jun,2019`**_
 
 ## PERSONAL PROJECT
 ---
-### Voice Assistant System
+### **Voice Assistant System**
 _**`Jan,2019 - Jun,2019`**_
  - Done R&D on speech recognition OSS and integrated to telecommunication project which include collection, operation and recognition on real-time speech data.
  - Recognized speech data was used to perform respected operation in response.
  - Technology Used : **Node.js**, **PHP**, **MongoDB**, **Asterisk**, **Julius**, **GIT**.
 
-### Essence - Online Book Store and Book Recommendation System
+### **Essence - Online Book Store and Book Recommendation System**
 _**`Jul,2018 - Sep,2019`**_
  - A recommendation system which uses Collaborative Filtering for recommending books to the user by finding the other users who in past have liked the similar books and what other books they have liked.
  - Technology Used : **Spring Boot**, **RESTful APIs**, **PHP**, **HTML/CSS**, **MySQL**, **R**.
 
-### Analysis of data using Hadoop Map-Reduce
+### **Analysis of data using Hadoop Map-Reduce**
 _**`Jun,2018 - Aug,2018`**_
  - Develop Hadoop code to process big data files using Map-Reduce and performing analysis of obtained data.
  - Technology Used : Java, MongoDB.
  
 ## ACHIEVEMENTS & CERTIFICATES
 ---
-### Medallion of Honor Award
+### **Medallion of Honor Award**
 _**`April,2023`**_
 > Enabled Exotel App2App SDK launch in short span for both platform iOS and Android.
 
-###  Boundary Breaker Award
+###  **Boundary Breaker Award**
 _**`2022`**_
 
-### SPOT(Special Performance on Time) Award
+### **SPOT(Special Performance on Time) Award**
 _**`Jul,2020`**_
 > For providing an efficient solution to a real-time problem in live project.
 
-#### Participation Certificate - SNACKDOWN 2017
+#### **Participation Certificate - SNACKDOWN 2017**
 _**`May,2017`**_
 > Participate in programming competition to improve problem solving skills
 
