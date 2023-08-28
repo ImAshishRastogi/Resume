@@ -24,8 +24,8 @@ _**`Apr,2023 - present`**_
  - Working under Platform team that involved in development of voice application on various platform.
  - Recent task
     - **Exotel App2App** : Developed a native SDK which enable customer to integrate voip experience in their app for both platform iOS and android. Also recently added app to whatsapp feature along with few UI changes.
-      - Android: : https://play.google.com/store/apps/details?id=com.exotel.voicesample
-      - iOS: https://testflight.apple.com/join/JgR4Zkqd
+      - Android: [https://play.google.com/store/apps/details?id=com.exotel.voicesample](https://play.google.com/store/apps/details?id=com.exotel.voicesample)
+      - iOS: [https://testflight.apple.com/join/JgR4Zkqd](https://testflight.apple.com/join/JgR4Zkqd)
     - **iOS App** : Develop an ios app from scratch that can provide voip experience in app to app. 
     - **Flutter App** :  created new flutter app and integrated app2app android native code in it to support voip calling.
 
@@ -48,7 +48,7 @@ _**`Jun,2021 - Mar,2023`**_
 
 - Recent work 
   - **Exotel Web SDK** : Developed a webrtc based sdk that can provide an voip experience on browser. 
-  demo: https://github.com/exotel/exotel-voip-websdk-sampleapp 
+  demo: [https://github.com/exotel/exotel-voip-websdk-sampleapp](https://github.com/exotel/exotel-voip-websdk-sampleapp) 
 
 - Contributed in **scoping** and **designing** new features. 
 wrote and developed **well tested code** in varient modules of ameyo call centre product.
