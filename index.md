@@ -13,7 +13,7 @@ number : 7838167990
 ## SKILLS
 ---
 
-**`Java`**  **`javascript`** **`C/C++`**  **`Swift`** **`REST`**  **`PostgresSQL`** **`MySQL`** **`OOPS`** **`Data Structure`** **`Spring`**  **`JPA`** **`nodejs`** **`Linux`** **`Algorithms`** **`Networking protocols`** **`Wireshark`**   **`git`** 
+**`Java`**  **`javascript`** **`C/C++`**  **`Swift`** **`REST`**  **`PostgresSQL`** **`MySQL`** **`OOPS`** **`Data Structure`** **`Spring`**  **`JPA`** **`nodejs`** **`Linux`** **`Algorithms`** **`Networking protocols`** **`Wireshark`**   **`git`** **`Basic Android Development`** **`Basic iOS Development`** **`Go Lang`** **`chatGPT`**
 
 ## EXPERIENCE
 ---
@@ -23,8 +23,11 @@ _**`Apr,2023 - present`**_
 
  - Working under Platform team that involved in development of voice application on various platform.
  - Recent task
+    - **Exotel App2App** : Developed a native SDK which enable customer to integrate voip experience in their app for both platform iOS and android. Also recently added app to whatsapp feature along with few UI changes.
+      - Android: : https://play.google.com/store/apps/details?id=com.exotel.voicesample
+      - iOS: https://testflight.apple.com/join/JgR4Zkqd
     - **iOS App** : Develop an ios app from scratch that can provide voip experience in app to app. 
-    - **Exotel App2App** : Developed a native SDK which enable customer to integrate voip experience in their app for both platform iOS and android.
+    - **Flutter App** :  created new flutter app and integrated app2app android native code in it to support voip calling.
 
 - Learning **Go** and **Swift language** to enhance and expand my skills.
 
