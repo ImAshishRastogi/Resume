@@ -13,7 +13,7 @@ number : 7838167990
 ## SKILLS
 ---
 
-**`Java`**  **`javascript`** **`C/C++`**  **`Swift`** **`REST`**  **`PostgresSQL`** **`MySQL`** **`OOPS`** **`Data Structure`** **`Spring`**  **`JPA`** **`nodejs`** **`Linux`** **`Algorithms`** **`Networking protocols`** **`Wireshark`**   **`git`** **`Basic Android Development`** **`Basic iOS Development`** **`Go Lang`** **`chatGPT`**
+**`Java`**  **`javascript`** **`C/C++`**  **`Swift`** **`REST`**  **`PostgresSQL`** **`MySQL`** **`OOPS`** **`Data Structure`** **`Spring`**  **`JPA`** **`nodejs`** **`Linux`** **`Algorithms`** **`Networking protocols`** **`Wireshark`**   **`git`** **`Android Development`** **`iOS Development`** **`Go Lang`** **`chatGPT`**
 
 ## EXPERIENCE
 ---
@@ -21,7 +21,7 @@ number : 7838167990
 
 _**`Apr,2023 - present`**_
 
- - Working under Platform team that involved in development of voice application on various platform.
+ - Working under Platform team that involved in development of voice application(a voip product) on various platform(web, android, and iOS).
  - Recent task
     - **Exotel App2App** : Developed a native SDK which enable customer to integrate voip experience in their app for both platform iOS and android. Also recently added app to whatsapp feature along with few UI changes.
       - Android: [https://play.google.com/store/apps/details?id=com.exotel.voicesample](https://play.google.com/store/apps/details?id=com.exotel.voicesample)
