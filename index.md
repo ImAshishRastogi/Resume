@@ -21,7 +21,7 @@ number : 7838167990
 
 _**`Apr,2023 - present`**_
 
- - Working under Platform team that involved in development of voice application(a voip product) on various platform(web, android, and iOS).
+ - Working under Platform team that involved in Product development **i.e voice application(a voip product)** on various platform(web, android, and iOS).
  - Recent task
     - **Exotel App2App** : Developed a native SDK which enable customer to integrate voip experience in their app for both platform iOS and android. Also recently added app to whatsapp feature along with few UI changes.
       - Android: [https://play.google.com/store/apps/details?id=com.exotel.voicesample](https://play.google.com/store/apps/details?id=com.exotel.voicesample)
