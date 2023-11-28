@@ -10,10 +10,15 @@ number : 7838167990
 ---
 
 **Resourceful Software Developer with 4+ years of industrial experience on various tech stacks. Endowed with implementing well tested and documented code along with scoping, designing and maintaining aesthetics.**
-## SKILLS
+## TECH SKILLS
 ---
 
-**`Java`**  **`javascript`** **`C/C++`**  **`Swift`** **`REST`**  **`PostgresSQL`** **`MySQL`** **`OOPS`** **`Data Structure`** **`Spring`**  **`JPA`** **`nodejs`** **`Linux`** **`Algorithms`** **`Networking protocols`** **`Wireshark`**   **`git`** **`Android Development`** **`iOS Development`** **`Go Lang`** **`chatGPT`**
+**`Java`**  **`javascript`** **`C/C++`**  **`Swift`** **`REST`**  **`PostgresSQL`** **`MySQL`** **`OOPS`** **`Data Structure`** **`Spring`**  **`JPA`** **`nodejs`** **`Linux`** **`Algorithms`** **`Networking protocols`** **`Wireshark`**   **`git`** **`Android Development`** **`Go Lang`** **`chatGPT`** **`Jenkins`** **`Docker`**
+
+## TECH SKILLS
+---
+
+**`Adaptability`** **`Teamwork`** **`Problem Solving`** **`Continuous Learning`**
 
 ## EXPERIENCE
 ---
