@@ -28,10 +28,13 @@ _**`Apr,2023 - present`**_
       - iOS: [https://testflight.apple.com/join/JgR4Zkqd](https://testflight.apple.com/join/JgR4Zkqd)
     - **iOS App** : Develop an ios app from scratch that can provide voip experience in app to app. 
     - **Flutter App** :  created new flutter app and integrated app2app android native code in it to support voip calling.
+    - **Ameyo Voice**: handle ameyo backend which involves **java based services**, **asterisk** , **database** etc.
+    - **Exotel Platform** : handle exotel backend which involves **Go based REST services**, **sbc** , **kamailio**, **databases** etc.
 
-- Learning **Go** and **Swift language** to enhance and expand my skills.
 
-- Worked on Tech Stacks: **Go**,**Swift**,**Java**,**Javascript**,**Linux**,**nodejs**,**WebRTC**
+- Learning **Go** to enhance and expand my skills.
+
+- Worked on Tech Stacks: **Go**,**Swift**,**Java**,**Javascript**,**Linux**,**nodejs**,**WebRTC**,**PostgresSQL**,**MySQL**
 
 - Tools used : 
     - **gitlab**,**bitbucket** : for version controlling. 
