@@ -1,6 +1,7 @@
 ---
 layout: default
 title: ASHISH RASTOGI
+Address: Varanasi,U.P.,India
 linkedInURL: https://www.linkedin.com/in/ashish-rastogi-520/
 githubURL : https://github.com/ImAshishRastogi
 email : iamashishrastogi@gmail.com
