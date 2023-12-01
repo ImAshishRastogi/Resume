@@ -11,12 +11,12 @@ number : 7838167990
 ---
 
 **Resourceful Software Developer with 4+ years of software development experience on various tech stacks. Endowed with implementing well tested and documented code along with scoping, designing and maintaining aesthetics.**
-## TECH SKILLS
+## TECHNICAL SKILLS
 ---
 
 **`Java`**  **`javascript`** **`C/C++`**  **`Swift`** **`REST`**  **`PostgresSQL`** **`MySQL`** **`OOPS`** **`Data Structure`** **`Spring`**  **`JPA`** **`nodejs`** **`Linux`** **`Algorithms`** **`Networking protocols`** **`Wireshark`**   **`git`** **`Android Development`** **`Go Lang`** **`chatGPT`** **`Jenkins`** **`Docker`** **`ChatGPT`** **`Gradle`**
 
-## TECH SKILLS
+## SOFT SKILLS
 ---
 
 **`Adaptability`** **`Teamwork`** **`Problem Solving`** **`Continuous Learning`**
@@ -111,11 +111,11 @@ _**`Jan,2019 - Jun,2019`**_
 ## EDUCATION
 ---
 
-| Degree     | College                                    | Course          | Duration | Result(%)|
-|:-----------|:-------------------------------------------|:----------------|:---------|:---------|
-|B.Tech      | ABES ENGINEERING COLLEGE, Ghaziabad        | Computer Science| 2015-2019| 71.6     |
-|Intermediate| N. D. Boys Inter College, Kaushambi        | Science         | 2013-2014| 78.8     |
-|High School | Harish Chandra Inter College Boys, Varanasi| Science         | 2011-2012| 79.5     |
+| Degree                  | College                                    | Course          | Duration | Result(%)|
+|:------------------------|:-------------------------------------------|:----------------|:---------|:---------|
+|Bachelor of Technology   | ABES ENGINEERING COLLEGE, Ghaziabad        | Computer Science| 2015-2019| 71.6     |
+|Intermediate             | N. D. Boys Inter College, Kaushambi        | Science         | 2013-2014| 78.8     |
+|High School              | Harish Chandra Inter College Boys, Varanasi| Science         | 2011-2012| 79.5     |
 
 ## PERSONAL PROJECT
 ---
