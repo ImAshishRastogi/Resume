@@ -10,11 +10,11 @@ number : 7838167990
 ## ABOUT 
 ---
 
-**Resourceful Software Developer with 4+ years of industrial experience on various tech stacks. Endowed with implementing well tested and documented code along with scoping, designing and maintaining aesthetics.**
+**Resourceful Software Developer with 4+ years of software development experience on various tech stacks. Endowed with implementing well tested and documented code along with scoping, designing and maintaining aesthetics.**
 ## TECH SKILLS
 ---
 
-**`Java`**  **`javascript`** **`C/C++`**  **`Swift`** **`REST`**  **`PostgresSQL`** **`MySQL`** **`OOPS`** **`Data Structure`** **`Spring`**  **`JPA`** **`nodejs`** **`Linux`** **`Algorithms`** **`Networking protocols`** **`Wireshark`**   **`git`** **`Android Development`** **`Go Lang`** **`chatGPT`** **`Jenkins`** **`Docker`**
+**`Java`**  **`javascript`** **`C/C++`**  **`Swift`** **`REST`**  **`PostgresSQL`** **`MySQL`** **`OOPS`** **`Data Structure`** **`Spring`**  **`JPA`** **`nodejs`** **`Linux`** **`Algorithms`** **`Networking protocols`** **`Wireshark`**   **`git`** **`Android Development`** **`Go Lang`** **`chatGPT`** **`Jenkins`** **`Docker`** **`ChatGPT`** **`Gradle`**
 
 ## TECH SKILLS
 ---
@@ -23,54 +23,58 @@ number : 7838167990
 
 ## EXPERIENCE
 ---
-### **Software Devloper|MTS-2** at **`Ameyo(Merged with Exotel)`**
+### **Software Devloper|MTS-2** at **`Exotel`**
 
 _**`Apr,2023 - present`**_
 
- - Working under Platform team that involved in Product development **i.e voice application(a voip product)** on various platform(web, android, and iOS).
- - Recent task
-    - **Exotel App2App** : Developed a native SDK which enable customer to integrate voip experience in their app for both platform iOS and android. Also recently added app to whatsapp feature along with few UI changes.
-      - Android: [https://play.google.com/store/apps/details?id=com.exotel.voicesample](https://play.google.com/store/apps/details?id=com.exotel.voicesample)
-      - iOS: [https://testflight.apple.com/join/JgR4Zkqd](https://testflight.apple.com/join/JgR4Zkqd)
-    - **iOS App** : Develop an ios app from scratch that can provide voip experience in app to app. 
-    - **Flutter App** :  created new flutter app and integrated app2app android native code in it to support voip calling.
-    - **Ameyo Voice**: handle ameyo backend which involves **java based services**, **asterisk** , **database** etc.
-    - **Exotel Platform** : handle exotel backend which involves **Go based REST services**, **sbc** , **kamailio**, **databases** etc.
+  - Working under a Platform team that is involved in Product development, **i.e voice application(a voip product)** on various platforms(web, android, and iOS).
+  
+  - **Exotel App2App** : Developed a native SDK which enables customers to integrate voip experience into their app for both platform iOS and android. Also recently added an app to whatsapp feature along with few UI changes.
+  
+    Android: [https://play.google.com/store/apps/details?id=com.exotel.voicesample](https://play.google.com/store/apps/details?id=com.exotel.voicesample)
 
-
-- Learning **Go** to enhance and expand my skills.
-
-- Worked on Tech Stacks: **Go**,**Swift**,**Java**,**Javascript**,**Linux**,**nodejs**,**WebRTC**,**PostgresSQL**,**MySQL**
-
-- Tools used : 
-    - **gitlab**,**bitbucket** : for version controlling. 
-    - **jira** : for issue tracking.    
-    - **confluence** : for documentaion and collaboration.
-    - **Postman** : API testing and validation.
-    - **Jenkins & Docker** : building and deployment of service containers
+    iOS: [https://testflight.apple.com/join/JgR4Zkqd](https://testflight.apple.com/join/JgR4Zkqd)
+  
+  - **iOS App** : Develop an ios app from scratch that can provide voip experience from app to app. 
+  
+  - **Flutter App** :  created a new flutter app and integrated app2app android native code in it to support voip calling.
+  
+  - **Ameyo Voice**: handle ameyo backend which involves **java based services**, **asterisk** , **database** etc.
+  
+  - **Exotel Platform** : handle exotel backend which involves **Go based REST services**, **sbc** , **kamailio**, **databases** etc.
+  
+  - Learning **Go Lang** to enhance and expand my skills.
+  
+  - Worked on Tech Stacks: **Go**,**Swift**,**Java**,**Javascript**,**Linux**,**nodejs**,**WebRTC**,**PostgresSQL**,**MySQL** 
+  
+  - **gitlab**,**bitbucket** used for version control. 
+  
+  - **jira** used for issue tracking.    
+  
+  - **confluence** used for documentation and collaboration.
+  
+  - **Postman** used API testing and validation.
+  
+  - **Jenkins & Docker** used building and deployment of service containers
 
 ### **Software Devloper|MTS-1** at **`Ameyo(Merged with Exotel in Jun,2021)`**
 
 _**`Jun,2021 - Mar,2023`**_
 
- - Worked under a backend team that focused on ameyo call centre software which has prime feature of inbound and outbound calling. 
-
-- Recent work 
-  - **Exotel Web SDK** : Developed a webrtc based sdk that can provide an voip experience on browser. 
+  - Worked under a backend team that focused on ameyo call centre software which has prime features of inbound and outbound calling.   
+  
+  - **Exotel Web SDK** : Developed a webrtc based sdk that can provide an voip experience on browsers. 
   demo: [https://github.com/exotel/exotel-voip-websdk-sampleapp](https://github.com/exotel/exotel-voip-websdk-sampleapp) 
+  
+  - Contributed in **scoping** and **designing** new features. 
+  
+  - wrote and developed **well tested code** in various modules of ameyo call centre product.Also managed **system testing and validation procedures** to gauge reliability.
 
-- Contributed in **scoping** and **designing** new features. 
-wrote and developed **well tested code** in varient modules of ameyo call centre product.
-Also managed **system testing and validation procedures** to gauge reliability.
+  - Also involved in project **development** , **proposals** and **demos**.
 
-- Also involved in project **development** , **proposals** and **demos**.
+  - Actively and successfully resolved a variety of issues, bugs and concerns by **providing instant workaround, fixing bug , improving debugging approach and creating proper documentation**.
 
-- Actively and succesfully resolved variety of issues, bugs and concerns by **providing instant workaround, fixing bug , improving debugging approch and creating proper documentation**.
-
-- Worked on Tech Stacks: **Swift**,**Java**,**Javascript**,**C**,**Linux**,**Asterisk**,**PostgresSQL**,**Spring**,**React**,**nodejs**,**WebRTC**,**Postman**
-
-
-
+  - Worked on Tech Stacks: **Swift**,**Java**,**Javascript**,**C**,**Linux**,**Asterisk**,**PostgresSQL**,**Spring**,**React**,**nodejs**,**WebRTC**,**Postman**
 
 ### **Member of Technical Staff** at **`NEC Corporation India Private Limited, Noida`** 
 
