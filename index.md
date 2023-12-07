@@ -11,11 +11,11 @@ number : 7838167990
 ## ABOUT 
 ---
 
-**Resourceful Software Developer with 4+ years of software development experience on various tech stacks. Endowed with implementing well tested and documented code along with scoping, designing and maintaining aesthetics.**
+**Resourceful Software Developer with 4+ years of software development( including 2+ years in product based company) experience on various tech stacks. Endowed with implementing well tested and documented code along with scoping, designing and maintaining aesthetics.**
 ## TECHNICAL SKILLS
 ---
 
-**`Java`**  **`javascript`** **`C/C++`**  **`Swift`** **`REST`**  **`PostgresSQL`** **`MySQL`** **`OOPS`** **`Data Structure`** **`Spring`**  **`JPA`** **`nodejs`** **`Linux`** **`Algorithms`** **`Networking protocols`** **`Wireshark`**   **`git`** **`Android Development`** **`Go Lang`** **`chatGPT`** **`Jenkins`** **`Docker`** **`ChatGPT`** **`Gradle`**
+**`Java`**  **`javascript`** **`C/C++`**  **`Swift`** **`REST`**  **`PostgresSQL`** **`MySQL`** **`OOPS`** **`Data Structure`** **`Spring`**  **`JPA`** **`nodejs`** **`Linux`** **`Algorithms`** **`Wireshark`**   **`git`** **`Android Development`** **`Go Lang`** **`chatGPT`** **`Jenkins`** **`Docker`** **`ChatGPT`** **`Gradle`**
 
 ## SOFT SKILLS
 ---
@@ -46,9 +46,9 @@ _**`Apr,2023 - present`**_
   
   - Learning **Go Lang** to enhance and expand my skills.
   
-  - Worked on Tech Stacks: **Go**,**Swift**,**Java**,**Javascript**,**Linux**,**nodejs**,**WebRTC**,**PostgresSQL**,**MySQL** 
+  - Worked on Tech Stacks: **Go**, **Swift**, **Java**, **Javascript**, **Linux**, **nodejs**, **WebRTC**, **PostgresSQL**, **MySQL** 
   
-  - **gitlab**,**bitbucket** used for version control. 
+  - **gitlab**, **bitbucket** used for version control. 
   
   - **jira** used for issue tracking.    
   
@@ -75,7 +75,7 @@ _**`Jun,2021 - Mar,2023`**_
 
   - Actively and successfully resolved a variety of issues, bugs and concerns by **providing instant workaround, fixing bug , improving debugging approach and creating proper documentation**.
 
-  - Worked on Tech Stacks: **Swift**,**Java**,**Javascript**,**C**,**Linux**,**Asterisk**,**PostgresSQL**,**Spring**,**React**,**nodejs**,**WebRTC**,**Postman**
+  - Worked on Tech Stacks: **Swift**, **Java**, **Javascript**, **C**, **Linux**, **Asterisk**, **PostgresSQL**, **Spring**, **React**, **nodejs**, **WebRTC**, **Postman**
 
 ### **Member of Technical Staff** at **`NEC Corporation India Private Limited, Noida`** 
 
