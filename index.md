@@ -15,7 +15,7 @@ number : 7838167990
 ## TECHNICAL SKILLS
 ---
 
-**`Java`**  **`javascript`** **`C/C++`**  **`Swift`** **`REST`**  **`PostgresSQL`** **`MySQL`** **`OOPS`** **`Data Structure`** **`Spring`**  **`JPA`** **`nodejs`** **`Linux`** **`Algorithms`** **`Wireshark`**   **`git`** **`Android Development`** **`Go Lang`** **`chatGPT`** **`Jenkins`** **`Docker`** **`ChatGPT`** **`Gradle`**
+**`Java`**  **`javascript`** **`C/C++`**  **`Swift`** **`REST`**  **`PostgresSQL`** **`MySQL`** **`OOPS`** **`Data Structure`** **`Spring Boot`**  **`JPA`** **`nodejs`** **`Linux`** **`Algorithms`** **`Wireshark`**   **`git`** **`Android Development`** **`Go Lang`** **`chatGPT`** **`Jenkins`** **`Docker`** **`ChatGPT`** **`Gradle`**
 
 ## SOFT SKILLS
 ---
@@ -44,9 +44,9 @@ _**`Apr,2023 - present`**_
   
   - **Exotel Platform** : handle exotel backend which involves **Go based REST services**, **sbc** , **kamailio**, **databases** etc.
   
-  - Learning **Go Lang** to enhance and expand my skills.
+  - Exposure of **AWS** cloud services like **EC2** instances, **s3** buckets, **Route 53 ** dns service
   
-  - Worked on Tech Stacks: **Go**, **Swift**, **Java**, **Javascript**, **Linux**, **nodejs**, **WebRTC**, **PostgresSQL**, **MySQL** 
+  - Worked on Tech Stacks: **Go**, **Swift**, **Java**, **Javascript**,**Spring Boot**, **Linux**, **nodejs**, **WebRTC**, **PostgresSQL**, **MySQL** 
   
   - **gitlab**, **bitbucket** used for version control. 
   
@@ -120,6 +120,28 @@ _**`Jan,2019 - Jun,2019`**_
 
 ## PERSONAL PROJECT
 ---
+
+### **Exotel Product : In-App Calling**, _Exotel_ 
+_**`Jan,2023 - present`**_
+ - Contributed in development of a native SDK which enables customers to integrate voip experience in their app for both platform iOS and android. 
+ - Have published the app on Playstore.
+Exotel official product page ref.  : https://exotel.com/products/in-app-calling/
+- Git ref. : https://github.com/exotel/exotel-voip-sdk-android 
+- App ref. : https://play.google.com/store/apps/details?id=com.exotel.voicesample 
+
+### **Exotel Product: WebSDK**, _Exotel_ 
+_**`Sep,2022 - Dec,2022`**_
+ - Contributed in development of a webrtc based SDK that can provide a voip experience on browsers. 
+Have published the sdk on npm.
+ - Exotel official product page ref. : https://exotel.com/webrtc/ 
+ - Git ref. : https://github.com/exotel/exotel-voip-websdk-sampleapp
+ - Npm ref. :https://www.npmjs.com/package/@exotel-npm-dev/webrtc-client-sdk 
+
+### **Ameyo Product : Contact Center Software(Voice)**, Ameyo 
+_**`Jun,2021 - Aug,2022`**_
+ - Contributed in scoping, designing & developing new features and upgrading core services for Ameyo Call Center software.
+ - Exotel official product page ref. : https://www.ameyo.com/product/voice 
+
 ### **Voice Assistant System**
 _**`Jan,2019 - Jun,2019`**_
  - Done R&D on speech recognition OSS and integrated to telecommunication project which include collection, operation and recognition on real-time speech data.
