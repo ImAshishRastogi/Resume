@@ -28,86 +28,38 @@ number : 7838167990
 
 _**`Apr,2023 - present`**_
 
-  - Working under a Platform team that is involved in Product development, **i.e voice application(a voip product)** on various platforms(web, android, and iOS).
-  
-  - **Exotel App2App** : Developed a native SDK which enables customers to integrate voip experience into their app for both platform iOS and android. Also recently added an app to whatsapp feature along with few UI changes.
-  
-    Android: [https://play.google.com/store/apps/details?id=com.exotel.voicesample](https://play.google.com/store/apps/details?id=com.exotel.voicesample)
+  - Worked under a Platform team, involved in Product development i.e **voice application (a voip product)** on platforms like web, android, and iOS.
+  - Spearheaded the development of the **Exotel inApp Calling SDK**, a native solution enabling seamless VoIP integration for both iOS and Android platforms. Leveraged **Java**, **Spring**, and **MySQL**, along with development tools like **Android Studio** and **Xcode**.
+  - Developed two interactive demonstrations for clients: a webview-based **iOS app** built from scratch in **Swift** and a **Flutter app** integrating native **Android code**, both showcasing VoIP calling functionality powered by the Exotel SDK.
+  - Managed and maintained both Ameyo and Exotel backends, utilising **Java**, **Go** , **Javascript**, **Spring Boot**, **REST APIs**, **PostgreSQL** and **MySQL** .
+  - Exposure of **AWS** cloud services like **EC2** instances, **s3 buckets**, **Route 53  DNS service**, **ECR** 
+  - Working knowledge of **Gitlab**, **bitbucket** for version control, **Jira** for issue tracking, **Confluence**  for documentation and collaboration, **Postman** for API testing and validation, and **Docker** & **Jenkins** for building and deployment of service containers.
 
-    iOS: [https://testflight.apple.com/join/JgR4Zkqd](https://testflight.apple.com/join/JgR4Zkqd)
-  
-  - **iOS App** : Develop an ios app from scratch that can provide voip experience from app to app. 
-  
-  - **Flutter App** :  created a new flutter app and integrated app2app android native code in it to support voip calling.
-  
-  - **Ameyo Voice**: handle ameyo backend which involves **java based services**, **asterisk** , **database** etc.
-  
-  - **Exotel Platform** : handle exotel backend which involves **Go based REST services**, **sbc** , **kamailio**, **databases** etc.
-  
-  - Exposure of **AWS** cloud services like **EC2** instances, **s3** buckets, **Route 53 ** dns service
-  
-  - Worked on Tech Stacks: **Go**, **Swift**, **Java**, **Javascript**,**Spring Boot**, **Linux**, **nodejs**, **WebRTC**, **PostgresSQL**, **MySQL** 
-  
-  - **gitlab**, **bitbucket** used for version control. 
-  
-  - **jira** used for issue tracking.    
-  
-  - **confluence** used for documentation and collaboration.
-  
-  - **Postman** used API testing and validation.
-  
-  - **Jenkins & Docker** used building and deployment of service containers
-
-### **Software Devloper|MTS-1** at **`Ameyo(Merged with Exotel in Jun,2021)`**
+### **Software Devloper|MTS-1** at **`Ameyo(Merged with Exotel)`**
 
 _**`Jun,2021 - Mar,2023`**_
 
-  - Worked under a backend team that focused on ameyo call centre software which has prime features of inbound and outbound calling.   
-  
-  - **Exotel Web SDK** : Developed a webrtc based sdk that can provide an voip experience on browsers. 
-  demo: [https://github.com/exotel/exotel-voip-websdk-sampleapp](https://github.com/exotel/exotel-voip-websdk-sampleapp) 
-  
-  - Contributed in **scoping** and **designing** new features. 
-  
+  - Collaborated with the backend team, focused on **Ameyo Product**, CRM software with in/outbound calling prime features  
+  - **Exotel Web SDK** : Developed a webrtc based SDK, empowering browser applications with seamless Voip functionalities.
+  - Contributed to **scoping** and **designing** new features, writing  and testing well-structured code across Ameyo call center modules, **managing system testing** and **validation procedure**s for reliability, all while actively involved in project **development**, **proposals**, and **demos**.
   - wrote and developed **well tested code** in various modules of ameyo call centre product.Also managed **system testing and validation procedures** to gauge reliability.
-
-  - Also involved in project **development** , **proposals** and **demos**.
-
-  - Actively and successfully resolved a variety of issues, bugs and concerns by **providing instant workaround, fixing bug , improving debugging approach and creating proper documentation**.
-
-  - Worked on Tech Stacks: **Swift**, **Java**, **Javascript**, **C**, **Linux**, **Asterisk**, **PostgresSQL**, **Spring**, **React**, **nodejs**, **WebRTC**, **Postman**
+  - Worked on Tech Stacks: **Java**, **Javascript**, **C**, **Linux**, **Asterisk**, **PostgresSQL**, **Spring**, **React**, **node js**, **WebRTC**, **Postman** 
 
 ### **Member of Technical Staff** at **`NEC Corporation India Private Limited, Noida`** 
 
 _**`Jul,2019 - May,2021`**_
 
- - Worked on a Telecommunication Project where I got to work on the development of firmware of various SIP phones with various **Networking Protocols** and APIs and libraries in **C/C++**.
-
- - Development of **User-Based Hot desking** for allowing the user to be logged-in from any remote location in IP phones using **C/C++** with **OOPS** implementation.
-
- - Frontend and Backend Development of **Feature Display Support** for displaying certain features in detail by fetching data from the backend with help of **Data Structures**, **STL**, and **message queues** in **C++**.
-
- - Upgradation of **OpenSSL** API along with **CURL**, **NTP**, and **wpa_supplicant** APIs which have been used by various modules for secure communication and transferring of information/data.
-
- - Effectively resolved various issues/bugs including intermittent issues with help of **debugging skills**, **Algorithms**, **Data Structures**, and **OOPs concepts**.
-
- - Created various customizable **SIP** and other **networking packets** to send over network with help of **sipp** or **ColaSoft** which helped infeasibility check, development, BUG verification, and UT.
-
- - Configured and Managed the **Window Server** from scratch which include **DHCP**, **DNS**, **IIS** (**FTP**, **TFTP** and **HTTPS**)configuration.
-
- - Configured **HP** and **cisco switch**.
-
- - Hands on experience in Networking tools like **WIreShark**, **sipp**, **colasoft** etc.
-
- - Well versed with continuous development using **SVN** and Agile Tools like **JIRA** .
+  - Developed firmware for diverse SIP phones, leveraging expertise in C/C++ and a variety of networking protocols, APIs, and libraries. 
+  - Implemented frontend and backend features for a Feature Display Support system. Employed Data Structures, STL, and message queues in C++ to fetch and display detailed feature information from the backend.
+  - Resolved diverse issues, bugs, and concerns by offering instant workarounds, implementing permanent fixes, streamlining debugging methods, and crafting comprehensive documentation leveraging algorithms, data structures, and OOPs concepts.
+  - Versed with continuous development using SVN and Agile Tools like JIRA with hands-on experience in Networking tools like WireShark, sipp, colasoft.
 
 ### **Trainee** at **`NEC Corporation India Private Limited, Noida`**
 
 _**`Jan,2019 - Jun,2019`**_
 
- - Development and Integration of a Speech Recognition System in IP phones to enable the voice assistance feature.
-
- - Created an automation script in **PHP** which creates an acoustic model for **JULIUS** by training the sample audio data using HTK toolkit.
+  - Integrated a Speech Recognition System in IP phones to enable the voice assistance feature. 
+  - Automated acoustic model creation for JULIUS, utilising HTK toolkit and a custom PHP script to process diverse sample audio data,  facilitating efficient development and training of the speech recognition system.
 
 ## EDUCATION
 ---
@@ -123,19 +75,18 @@ _**`Jan,2019 - Jun,2019`**_
 
 ### **Exotel Product : In-App Calling**, _Exotel_ 
 _**`Jan,2023 - present`**_
- - Contributed in development of a native SDK which enables customers to integrate voip experience in their app for both platform iOS and android. 
- - Have published the app on Playstore.
-Exotel official product page ref.  : https://exotel.com/products/in-app-calling/
-- Git ref. : https://github.com/exotel/exotel-voip-sdk-android 
-- App ref. : https://play.google.com/store/apps/details?id=com.exotel.voicesample 
+  - Developed and published a native SDK enabling seamless Voip integration within customer apps for both iOS and Android platforms.
+  - Exotel official product page ref.  : [https://exotel.com/products/in-app-calling/](https://exotel.com/products/in-app-calling/)
+  - Git ref. : [https://github.com/exotel/exotel-voip-sdk-android](https://github.com/exotel/exotel-voip-sdk-android) 
+  - Android App : [https://play.google.com/store/apps/details?id=com.exotel.voicesample](https://play.google.com/store/apps/details?id=com.exotel.voicesample)
+  - iOS App:  [https://testflight.apple.com/join/JgR4Zkqd](https://testflight.apple.com/join/JgR4Zkqd )
 
 ### **Exotel Product: WebSDK**, _Exotel_ 
 _**`Sep,2022 - Dec,2022`**_
- - Contributed in development of a webrtc based SDK that can provide a voip experience on browsers. 
-Have published the sdk on npm.
- - Exotel official product page ref. : https://exotel.com/webrtc/ 
- - Git ref. : https://github.com/exotel/exotel-voip-websdk-sampleapp
- - Npm ref. :https://www.npmjs.com/package/@exotel-npm-dev/webrtc-client-sdk 
+  - Pioneered the development and publication of a WebRTC-based SDK, The SDK, published on npm, offers businesses a seamless solution to integrate Voip experiences directly into web platforms.
+  - Exotel official product page ref. : [https://exotel.com/webrtc/](https://exotel.com/webrtc/) 
+  - Git ref. : [https://github.com/exotel/exotel-voip-websdk-sampleapp](https://github.com/exotel/exotel-voip-websdk-sampleapp)
+  - Npm ref. :[https://www.npmjs.com/package/@exotel-npm-dev/webrtc-client-sdk](https://www.npmjs.com/package/@exotel-npm-dev/webrtc-client-sdk)
 
 ### **Ameyo Product : Contact Center Software(Voice)**, Ameyo 
 _**`Jun,2021 - Aug,2022`**_
@@ -144,14 +95,11 @@ _**`Jun,2021 - Aug,2022`**_
 
 ### **Voice Assistant System**
 _**`Jan,2019 - Jun,2019`**_
- - Done R&D on speech recognition OSS and integrated to telecommunication project which include collection, operation and recognition on real-time speech data.
- - Recognized speech data was used to perform respected operation in response.
- - Technology Used : **Node.js**, **PHP**, **MongoDB**, **Asterisk**, **Julius**, **GIT**.
+ - Spearheaded research and development on speech recognition open-source software (OSS) for a telecommunication project. Led the integration of data collection, processing, and real-time recognition using Node.js, PHP, MongoDB, Asterisk, Julius, and Git.
 
-### **Essence - Online Book Store and Book Recommendation System**
+### **Essence**
 _**`Jul,2018 - Sep,2019`**_
- - A recommendation system which uses Collaborative Filtering for recommending books to the user by finding the other users who in past have liked the similar books and what other books they have liked.
- - Technology Used : **Spring Boot**, **RESTful APIs**, **PHP**, **HTML/CSS**, **MySQL**, **R**.
+ - Leveraged **Spring Boot**, **RESTful APIs**, **PHP**, **HTML/CSS**, **R**, and **MySQL** for developing  "Essence," an online bookstore and book recommendation system. 
 
 ### **Analysis of data using Hadoop Map-Reduce**
 _**`Jun,2018 - Aug,2018`**_
